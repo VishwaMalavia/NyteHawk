@@ -79,10 +79,6 @@ node server.js
 ```
 Backend runs on: 👉 http://localhost:5000
 
-
-## 📬 Contact
-Developer: Krish Zinzuvadiya | 📧 Email: krishrami198@gmail.com | 💻 GitHub: https://github.com/Krish-zinzuvadiya
-
 ## 🧑‍🤝‍🧑 Credits / Our Team
 
 | Name | LinkedIn | GitHub |
