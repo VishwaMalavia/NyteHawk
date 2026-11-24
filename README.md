@@ -78,12 +78,3 @@ Your app will start at: 👉 http://localhost:3000
 node server.js
 ```
 Backend runs on: 👉 http://localhost:5000
-
-## 🧑‍🤝‍🧑 Credits / Our Team
-
-| Name | LinkedIn | GitHub |
-|------|-----------|--------|
-| **Krish Zinzuvadiya** | [LinkedIn](https://www.linkedin.com/in/krish-zinzuvadiya-449b70279/) | [GitHub](https://github.com/Krish-zinzuvadiya) |
-| **Henil Shah** | [LinkedIn](https://www.linkedin.com/in/henil-shah-a030b7349/l) | [GitHub](https://github.com/henil7781) |
-| **Aaryan Chauhan** | [LinkedIn](https://www.linkedin.com/in/aaryan-chauhan/) | [GitHub](https://github.com/aaryan-chauhan) |
-| **Vishwa Malavia** | [LinkedIn](https://www.linkedin.com/in/vishwa-malavia-26ab51296/) | [GitHub](https://github.com/vishwamalavia) |
